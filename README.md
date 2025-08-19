@@ -2,7 +2,7 @@
 
 Este projeto demonstra o processo completo de treinamento e aplicação de um modelo de detecção de objetos **YOLOv8** para identificar pessoas, carros e semáforos em imagens de rua. O desenvolvimento foi realizado inteiramente na plataforma Kaggle, aproveitando seus recursos de GPU.
 
-Este trabalho foi desenvolvido como parte de um desafio de projeto para um bootcamp de Machine Learning.
+Este trabalho foi desenvolvido como parte de um desafio de projeto para o bootcamp Machine Learning Training da DIO em parceria com a empresa Baires Dev.
 
 ## Resultado Final
 
