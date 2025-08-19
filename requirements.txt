@@ -1,0 +1,7 @@
+# Arquivo de dependências para o projeto de detecção com YOLOv8
+
+ultralytics
+pyyaml
+torch
+torchvision
+# Jupyter ou uma IDE como VS Code é necessário para abrir o arquivo .ipynb
